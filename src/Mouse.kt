@@ -3,7 +3,7 @@ data class Mouse( var tipo: String = "usb") {
     init{
 
         tipo = tipo + "!"
-        tipo = tipo + "Por cable"
+        tipo = tipo + "Por cable USB"
 
     }
 
