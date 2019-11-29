@@ -12,5 +12,5 @@ fun main() {
     var miComp=Computer(("i5,5"),Mouse())
     miComp.memoria=4000
     println(miComp.toString())
-    //Comentario
+    miComp.speed= 200
 }
